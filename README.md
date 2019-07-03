@@ -1,4 +1,7 @@
-# B00merang-Dark
+[![built-with-azurra-framework](https://github.com/Elbullazul/Azurra_framework/raw/assets/azurra_framework_smaller.png)](https://github.com/Elbullazul/Azurra_framework)
+
+# B00merang Dark
+
 Dark GTK theme with subtle gradients and shadows
 
 ![dark](https://github.com/B00merang-Project/gallery/raw/master/B00merang%20Dark%20(1).png)
